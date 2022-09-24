@@ -1,5 +1,6 @@
-[👋 Hi, I’m Indar Jaya, Frontend Developer]
-[👀 I’m interested in Web Development...]
-[🌱 I’m currently learning HTML, CSS and Javascript in Binar Academy...]
-[💞️ I’m looking to collaborate on ...]
-[📫 How to reach me? ]
+## Hi, I’m Indar Jaya, Frontend Developer
+
+1. 👀 I’m interested in Web Development...
+2. 🌱 I’m currently learning HTML, CSS and Javascript in Binar Academy...
+3. 💞️ I’m looking to collaborate on ...
+4. 📫 How to reach me? 
