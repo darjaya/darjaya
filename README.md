@@ -7,16 +7,16 @@
 📫 How to reach me? indarjaya.id@gmail.com
 
 </p>
-<hr>
+<br>
+
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/indarjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/frans-bachtiar-ab31a6246" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/indarjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/frans-bachtiar-ab31a6246" height="30" width="40" /></a>
 <a href="https://instagram.com/in_darjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fransbchtr" height="30" width="40" /></a>
 </p>
 
-<hr>
-
+<br>
 
 <h3 align="center">  Technologies & Tools </h3>
 
