@@ -9,7 +9,7 @@
 </p>
 <br>
 
-Final Project [Petik.com](https://github.com/Arrizal28/petik.com/tree/dev)
+Final Project [Petik.com](https://github.com/Arrizal28/petik.com)
 
 <h2 align="center">Connect with me:</h2>
 
